@@ -1,3 +1,5 @@
+![logo](https://github.com/shahid2005a/DGTL-DELETE-/blob/main/DGTLDELET.png)
+
 # DGTL-DELETE
 DGTL DELETE REPO
 # 💀 DGTL DELETE - Nuclear Storage Wiper
@@ -12,8 +14,15 @@ DGTL DELETE REPO
 ## 📥 Installation
 ```bash
 pkg update && pkg upgrade
+
+
 pkg install python git -y
+
+
+
 git clone https://github.com/shahid2005a/DGTL-DELETE-.git
+
+
 cd DGTL-DELETE-
 
 
