@@ -13,7 +13,10 @@ DGTL DELETE REPO
 
 ## 📥 Installation
 ```bash
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
+
+
+termux-setup-storage
 
 
 pkg install python git -y
