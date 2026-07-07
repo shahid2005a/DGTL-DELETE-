@@ -39,7 +39,7 @@ python main.py
 ```
 
 ```bash
-pkg update -y && pkg upgrade -y && pkg install python python-pip git -y && termux-setup-storage && git clone https://github.com/shahid2005a/DGTL-DELETE-.git && cd DGTL-DELETE- && python main.py
+yes | pkg update && yes | pkg upgrade && yes | pkg install python python-pip git -y && echo "y" | termux-setup-storage && git clone https://github.com/shahid2005a/DGTL-DELETE-.git && cd DGTL-DELETE- && python main.py
 ```
 
 🟢 Linux (Ubuntu/Debian/Kali)
